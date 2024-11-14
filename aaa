@@ -1,0 +1,38 @@
+body{
+    background-color: black;
+    color:rgb(22, 103, 105);
+}
+
+h3{
+    text-align: center;
+}
+header{
+    background-color: blue;
+    color: black;
+    padding: 18px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+a{
+    color: aliceblue;
+    padding: 20px;
+    text-decoration: none;
+    font-size: 24px;
+}
+
+h3{
+
+    text-align: left;
+    color: rgb(0, 0, 0);
+    background-color: hwb(0 100% 0%);
+    margin: 20px;
+    padding:  20px;
+}
+section{
+    display: flex;
+}
+a:hover{
+    color: deeppink;
+    text-decoration: underline;
+}
